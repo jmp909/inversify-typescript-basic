@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+        "module": "amd",
+        "sourceMap": false,
+        "noImplicitAny": false,
+		"watch": true,
+		"noLib": false,
+		"removeComments": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "declaration": false,
+        "outDir": "js/"
+	},
+    "listFiles":true,
+    "files": [
+        "./src/TestApp.ts",
+        "./src/require.config.ts",
+        "./src/AppBootstrap.ts"
+    ],
+    "buildOnSave": true
+}
+

@@ -1,0 +1,33 @@
+{
+  "name": "inversify-typescript-basic",
+  "version": "1.0.0",
+  "description": "InversifyJS basic example app",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmp909/inversify-typescript-basic"
+  },
+  "keywords": [
+    "inversion",
+    "control",
+    "dependency",
+    "ioc",
+    "container",
+    "inversify"
+  ],
+  "author": "J. Pierlejewski <joe@codemonkeynorth.co.uk> (http://www.codemonkeynorth.co.uk)",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/jmp909/inversify-typescript-basic/issues"
+  },
+  "homepage": "https://github.com/jmp909/inversify-typescript-basic",
+  "dependencies": {
+    "inversify": "^1.0.0",
+    "requirejs": "^2.1.17"
+  },
+  "devDependencies": {
+  }
+}
